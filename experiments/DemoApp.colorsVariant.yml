@@ -1,0 +1,12 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+enabled: false
+flag: DemoApp.colorsVariant
+availableValues:
+  - green
+  - blue
+  - red
+platforms:
+  - name: (custom-prop)
+  - name: aaa
+value: blue
