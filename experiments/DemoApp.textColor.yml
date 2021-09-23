@@ -2,4 +2,5 @@
 type: experiment
 enabled: false
 flag: DemoApp.textColor
-availableValues: []
+availableValues:
+  - black
