@@ -3,4 +3,4 @@ name: tg3
 conditions:
   - operator: semver-eq
     property: rox.app_release
-    operand: '2'
+    operand: '5'
