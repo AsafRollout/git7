@@ -1,0 +1,6 @@
+type: target-group
+name: tg5
+conditions:
+  - operator: semver-ne
+    property: rox.app_release
+    operand: '2'
