@@ -1,0 +1,6 @@
+type: target-group
+name: tg8
+conditions:
+  - operator: ne
+    property: rox.platform
+    operand: asdf
