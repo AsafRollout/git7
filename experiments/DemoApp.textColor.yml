@@ -4,3 +4,7 @@ enabled: false
 flag: DemoApp.textColor
 availableValues:
   - black
+conditions:
+  - group:
+      name: tg7
+    value: black
